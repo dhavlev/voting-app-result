@@ -5,7 +5,7 @@ def cdConfig = [
     chart: [
         repo: "https://github.com/dhavlev/helm-charts.git",
         branch: "voting-app"
-    ],
+    ]
 ]
 
 def ciConfig = [
